@@ -22,7 +22,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="file:///Users/williamordaz/Downloads/Flix.gif" width=250><br>
+<img src="http://g.recordit.co/s0fomUJQ5i.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
+
+I thought adding a podfile would be tricky to me, but it ended up being straight forward. The part where it got challengeing was creating to new UITableView's and with that two new functions appeared. I was confused why on one function we returned a count and in the other we added more code, but then the name of the functions made everything make more sense. 
